@@ -1,9 +1,9 @@
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Ymxer.
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
-|     2| Python    |
+|     2| DOS    |
 |     3| SQL       |
